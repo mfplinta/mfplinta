@@ -1,3 +1,5 @@
 ## Hi there 👋, I'm Matt (Matheus)
-
-🔗 [Go to school projects repo](https://github.com/mfplinta-byu)
+Tech aficionado. Programmer in C#, Python, NodeJS, and more.\
+\
+🔗 [Go to school projects repo](https://github.com/mfplinta-byu)\
+🌐 [My website](https://www.matheusplinta.com)
