@@ -6,13 +6,13 @@ Tech aficionado. Programmer in C#, Python, NodeJS, and more.
 
 🎓 **BYU**
 - CS 260: 
-[Project 2: IP viewer](https://github.com/mfplinta-byu/cs260-project2) | 
-[Project 5: Twitter clone](https://github.com/mfplinta-byu/cs260-project5)
+[Project 2: IP viewer](https://github.com/mfplinta/cs260-project2) | 
+[Project 5: Twitter clone](https://github.com/mfplinta/cs260-project5)
 - CS 329: 
-[JWT Pizza Service](https://github.com/mfplinta-byu/jwt-pizza-service) | 
-[JWT Pizza Backend](https://github.com/mfplinta-byu/jwt-pizza)
+[JWT Pizza Service](https://github.com/mfplinta/jwt-pizza-service) | 
+[JWT Pizza Backend](https://github.com/mfplinta/jwt-pizza)
 
-**Personal**
+👔 **Personal**
 - [My NixOS dotfiles](https://gitea.matheusplinta.com/mfplinta/nix-configs)
 - [OTS website - my IT consulting company](https://gitea.matheusplinta.com/mfplinta/ots-website)
 - [Portfolio website](https://gitea.matheusplinta.com/mfplinta/portfolio)
