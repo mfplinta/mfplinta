@@ -13,8 +13,8 @@ Tech aficionado. Programmer in C#, Python, NodeJS, and more.
 [JWT Pizza Backend](https://github.com/mfplinta/jwt-pizza)
 
 👔 **Personal**
-- [My NixOS dotfiles](https://gitea.matheusplinta.com/mfplinta/nix-configs)
-- [OTS website - my IT consulting company](https://gitea.matheusplinta.com/mfplinta/ots-website)
-- [Portfolio website](https://gitea.matheusplinta.com/mfplinta/portfolio)
+- [My NixOS dotfiles](https://github.com/mfplinta/nix-configs)
+- [OTS website - my IT consulting company](https://github.com/mfplinta/ots-website)
+- [Portfolio website](https://github.com/mfplinta/portfolio)
 
 🌐 [My website](https://www.matheusplinta.com) | 💼 [LinkedIn](https://www.linkedin.com/in/matheus-plinta)
