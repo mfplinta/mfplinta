@@ -1,6 +1,9 @@
 ## Hi there 👋, I'm Matt (Matheus)
 Tech aficionado. Programmer in C#, Python, NodeJS, and more.
 
+🎓 **Cottonwood High School**
+- FRC 2019 Robotics Team: [Robot code](https://github.com/mfplinta/chs-robotics)
+
 🎓 **BYU Idaho**
 - CSE 111: [Road Rush Game](https://github.com/dvdfl/final)
 
