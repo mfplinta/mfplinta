@@ -7,7 +7,7 @@ Tech aficionado. Programmer in C#, Python, NodeJS, and more.
 🎓 **BYU Idaho**
 - CSE 111: [Road Rush Game](https://github.com/dvdfl/final)
 
-🎓 **BYU**
+🎓 **BYU Provo**
 - CS 260: 
 [Project 2: IP viewer](https://github.com/mfplinta/cs260-project2) | 
 [Project 5: Twitter clone](https://github.com/mfplinta/cs260-project5)
