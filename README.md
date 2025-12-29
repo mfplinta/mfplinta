@@ -20,4 +20,4 @@ Tech aficionado. Programmer in C#, Python, NodeJS, and more.
 - [OTS website - my IT consulting company](https://github.com/mfplinta/ots-website)
 - [Portfolio website](https://github.com/mfplinta/portfolio)
 
-🌐 [My website](https://www.matheusplinta.com) | 💼 [LinkedIn](https://www.linkedin.com/in/matheus-plinta)
+🌐 [My website](https://www.plinta.dev) | 💼 [LinkedIn](https://www.linkedin.com/in/matheus-plinta)
