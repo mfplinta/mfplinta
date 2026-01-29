@@ -35,8 +35,8 @@ Tech aficionado. Programmer in C#, Python, NodeJS, and more. Homelab tinkerer in
 - CS 340:
 [Tweeter Web](https://github.com/mfplinta/tweeter-web)
 - CS 329:
-[JWT Pizza Service](https://github.com/mfplinta/jwt-pizza-service) |
-[JWT Pizza Backend](https://github.com/mfplinta/jwt-pizza)
+[JWT Pizza: Backend service](https://github.com/mfplinta/jwt-pizza-service) |
+[JWT Pizza: Frontend](https://github.com/mfplinta/jwt-pizza)
 
 👔 **Personal**
 
