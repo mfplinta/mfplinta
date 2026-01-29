@@ -32,6 +32,8 @@ Tech aficionado. Programmer in C#, Python, NodeJS, and more. Homelab tinkerer in
 - CS 260:
 [Project 2: IP viewer](https://github.com/mfplinta/cs260-project2) |
 [Project 5: Twitter clone](https://github.com/mfplinta/cs260-project5)
+- CS 340:
+[Tweeter Web](https://github.com/mfplinta/tweeter-web)
 - CS 329:
 [JWT Pizza Service](https://github.com/mfplinta/jwt-pizza-service) |
 [JWT Pizza Backend](https://github.com/mfplinta/jwt-pizza)
