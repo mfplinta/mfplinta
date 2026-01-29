@@ -67,7 +67,8 @@ Tech aficionado. Programmer in C#, Python, NodeJS, and more. Homelab tinkerer in
       <strong>Homelab / Dev Projects</strong><br>
       <a href="https://github.com/mfplinta/nix-configs">My NixOS dotfiles</a><br>
       <a href="https://github.com/mfplinta/ots-website">OTS website</a><br>
-      <a href="https://github.com/mfplinta/portfolio">Portfolio website</a>
+      <a href="https://github.com/mfplinta/portfolio">Portfolio website</a><br>
+      <a href="https://github.com/mfplinta/esp-lift">ESP Lift</a>
     </td>
   </tr>
 </table>
