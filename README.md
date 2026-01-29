@@ -25,7 +25,7 @@ Tech aficionado. Programmer in C#, Python, NodeJS, and more. Homelab tinkerer in
     <td>
       <strong>FRC 2019 Robotics Team</strong>
       <br>
-      <a href="https://github.com/mfplinta/chs-robotics">Robot code</a>
+      🤖️ <a href="https://github.com/mfplinta/chs-robotics">Robot code</a>
     </td>
   </tr>
   <tr></tr>
@@ -33,7 +33,7 @@ Tech aficionado. Programmer in C#, Python, NodeJS, and more. Homelab tinkerer in
     <td>🎓 <strong>BYU Idaho</strong></td>
     <td>
       <strong>CSE 111</strong><br>
-      <a href="https://github.com/dvdfl/final">Road Rush Game</a>
+      🎮 <a href="https://github.com/dvdfl/final">Road Rush Game</a>
     </td>
   </tr>
   <tr></tr>
@@ -41,23 +41,23 @@ Tech aficionado. Programmer in C#, Python, NodeJS, and more. Homelab tinkerer in
     <td rowspan="5">🎓 <strong>BYU Provo</strong></td>
     <td>
       <strong>CS 260</strong><br>
-      <a href="https://github.com/mfplinta/cs260-project2">Project 2: IP viewer</a><br>
-      <a href="https://github.com/mfplinta/cs260-project5">Project 5: Twitter clone</a>
+      🌐 <a href="https://github.com/mfplinta/cs260-project2">Project 2: IP viewer</a><br>
+      🌐 <a href="https://github.com/mfplinta/cs260-project5">Project 5: Twitter clone</a>
     </td>
   </tr>
   <tr></tr>
   <tr>
     <td>
       <strong>CS 340</strong><br>
-      <a href="https://github.com/mfplinta/tweeter-web">Tweeter Web</a>
+      🌐 <a href="https://github.com/mfplinta/tweeter-web">Tweeter Web</a>
     </td>
   </tr>
   <tr></tr>
   <tr>
     <td>
       <strong>CS 329</strong><br>
-      <a href="https://github.com/mfplinta/jwt-pizza-service">JWT Pizza: Backend service</a><br>
-      <a href="https://github.com/mfplinta/jwt-pizza">JWT Pizza: Frontend</a>
+      ⚙️ <a href="https://github.com/mfplinta/jwt-pizza-service">JWT Pizza: Backend service</a><br>
+      🌐 <a href="https://github.com/mfplinta/jwt-pizza">JWT Pizza: Frontend</a>
     </td>
   </tr>
   <tr></tr>
@@ -65,12 +65,12 @@ Tech aficionado. Programmer in C#, Python, NodeJS, and more. Homelab tinkerer in
     <td>👔 <strong>Personal</strong></td>
     <td>
       <strong>Homelab / Dev Projects</strong><br>
-      <a href="https://github.com/mfplinta/nix-configs">My NixOS dotfiles</a><br>
-      <a href="https://github.com/mfplinta/ots-website">OTS website</a><br>
-      <a href="https://github.com/mfplinta/portfolio">Portfolio website</a><br>
-      <a href="https://github.com/mfplinta/esp-lift">ESP Lift</a>
+      ⚙️ <a href="https://github.com/mfplinta/nix-configs">My NixOS dotfiles</a><br>
+      🌐 <a href="https://github.com/mfplinta/ots-website">OTS website</a><br>
+      🌐 <a href="https://github.com/mfplinta/portfolio">Portfolio website</a><br>
+      🤖️ <a href="https://github.com/mfplinta/esp-lift">ESP Lift</a>
     </td>
   </tr>
 </table>
 
-🌐 [My website](https://www.plinta.dev) | 💼 [LinkedIn](https://www.linkedin.com/in/matheus-plinta)
+🌎 [My website](https://www.plinta.dev) | 💼 [LinkedIn](https://www.linkedin.com/in/matheus-plinta)
