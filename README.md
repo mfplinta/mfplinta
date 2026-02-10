@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Matt (Matheus)
 
-Tech aficionado. Programmer in C#, Python, NodeJS, and more. Homelab tinkerer in my spare time.
+Tech aficionado. Programmer in C#, Python, NodeJS, and more. Homelab and electronics tinkerer in my spare time.
 
 ---
 ### Tech Stack
