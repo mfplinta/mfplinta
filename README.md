@@ -26,6 +26,10 @@ Tech aficionado. Programmer in C#, Python, NodeJS, and more. Homelab tinkerer in
       <strong>FRC 2019 Robotics Team</strong>
       <br>
       🤖️ <a href="https://github.com/mfplinta/chs-robotics">Robot code</a>
+      <br>
+      <strong>MESA 2019 Physics Day</strong>
+      <br>
+      🤖️ <a href="https://github.com/mfplinta/MESA-WiFi-Arduino-Car">Car code</a>
     </td>
   </tr>
   <tr></tr>
